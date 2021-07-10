@@ -6,7 +6,7 @@ bin/
 tmp/
 .metadata
 .classpath
-.project
+# .project
 *.tmp
 *.bak
 *.swp
